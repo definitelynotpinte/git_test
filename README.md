@@ -1,0 +1,1 @@
+This is Pinte's first git project!
